@@ -46,5 +46,5 @@ The concept of the _natural_ environment can be ***distinguished*** as ___compon
 ----------------------------------------------------------------------
 [click here](https://en.wikipedia.org/wiki/Natural_environment)
 | Title | Description | 
-| ---------------------------------- | ------------------------------ |
+| ---------------------------------- | --------------------------------- |
 | Item1 | Description |
