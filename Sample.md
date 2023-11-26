@@ -54,7 +54,8 @@ The concept of the _natural_ environment can be ***distinguished*** as ___compon
 [^1]:This is a footnote
 
 ~~This is a sentence~~
-
 - [x] item 1
 - [ ] item 2
 - [ ] item 3
+
+Funny 😂
