@@ -41,3 +41,4 @@ The concept of the _natural_ environment can be ***distinguished*** as ___compon
   - item2
 
 `code item`
+![Screenshot 2023-11-22 195645](https://github.com/HN19202/Tech-Writing-Sample/assets/152055167/f487e389-1303-4434-b58f-d0b1e174d7fa)
