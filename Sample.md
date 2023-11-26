@@ -52,6 +52,7 @@ The concept of the _natural_ environment can be ***distinguished*** as ___compon
 | Item1 | Description |
 | Item1 | Description |
 [^1]:This is a footnote
+
 ~~This is a sentence~~
 
 - [x] item 1
