@@ -13,3 +13,8 @@ The __term__ is most often applied to Earth or some parts of Earth. This environ
 
 
 The concept of the _natural_ environment can be ***distinguished*** as ___components___:
+
+> curl --request GET \
+--url "https://api.github.com/octocat" \
+--header "Authorization: Bearer YOUR-TOKEN" \
+--header "X-GitHub-Api-Version: 2022-11-28"
