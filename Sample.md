@@ -13,7 +13,7 @@ The __term__ is most often applied to Earth or some parts of Earth. This environ
 
 
 The concept of the _natural_ environment can be ***distinguished*** as ___components___. [^1]
-[^1]:This is a footnote
+
 
 > curl --request GET \
 --url "https://api.github.com/octocat" \
@@ -51,3 +51,4 @@ The concept of the _natural_ environment can be ***distinguished*** as ___compon
 | Item1 | Description |
 | Item1 | Description |
 | Item1 | Description |
+[^1]:This is a footnote
